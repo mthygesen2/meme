@@ -1,0 +1,22 @@
+.imgText {
+  background-image: url(http://www.memesonline.com/templates/stoner-stanley-blank.png);
+  background-repeat: no-repeat;
+  width: 500px;
+  text-align: center;
+}
+
+p {
+  color: white;
+  font-size: 50px;
+  font-family: Impact;
+  text-shadow: 3px 3px 5px black;
+}
+
+#topText{
+  padding-bottom: 300px;
+  padding-top: 10px;
+}
+
+#bottomText{
+  padding-bottom: 10px;
+}
